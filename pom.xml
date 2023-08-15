@@ -6,12 +6,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.prowings</groupId>
-	<artifactId>my-first-rest-api-Using-Spring-mvc4</artifactId>
+	<artifactId>my-first-rest-api-Using-Spring-mvc5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 
-	<name>my-first-rest-api-Using-Spring-mvc4 Maven Webapp</name>
+	<name>my-first-rest-api-Using-Spring-mvc5 Maven Webapp</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
